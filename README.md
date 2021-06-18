@@ -1,2 +1,6 @@
 # Registration
-Para iniciar com os bancos de dados, eu decidi criar uma tela de registro usando Python e MySQL
+To get started with databases, I decided to create a log screen using Python and MySQL
+
+How to use:
+- In 'database.py', write your login and password on lines 6 and 7 (once)
+- Run 'main.py'
